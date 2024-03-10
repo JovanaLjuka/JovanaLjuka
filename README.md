@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/jovanaljuka"><img src="https://api.daily.dev/devcards/v2/wAPPy0r9aWzg7wMTvA8UB.png?type=default&r=sk0" width="356" alt="Jovana Ljuka's Dev Card"/></a>
 <!--
 **JovanaLjuka/JovanaLjuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
